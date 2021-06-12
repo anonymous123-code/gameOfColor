@@ -11,7 +11,7 @@ import static de.gyko.gameofcolors.Utility.uint;
  * @author Jano Andretzky
  */
 public class PlayerJoinPacket extends Packet {
-    public static final String packetId = "txt";
+    public static final String packetId = "plj";
     /**
      * Der Name des Spielers
      */
